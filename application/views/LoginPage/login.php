@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Hospital Management System: Login</title>
+    <title>Hospital Management System (HMS): Login</title>
 
     <!-- Bootstrap -->
     <link href="<?php echo base_url("css/bootstrap.min.css"); ?>"  rel="stylesheet">
