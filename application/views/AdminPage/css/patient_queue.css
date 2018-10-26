@@ -1,0 +1,26 @@
+.custab{
+    border: 1px solid #ccc;
+    padding: 0px;
+    margin: 0 0;
+    box-shadow: 3px 3px 2px #ccc;
+    transition: 0.5s;
+	overflow-y:scroll;  
+	display: inline-block;
+	vertical-align: middle;
+	box-sizing: border-box;
+    vertical-align: middle;
+    width: auto; /*if you want a fixed width, set it here, else set to auto*/
+	min-width: 0/*100%*/; /*if you want a % width, set it here, else set to 0*/
+	line-height: 20px;
+	text-align: left;
+	height: 325px/*100%*/; /*set table height here; can be fixed value or %*/
+	min-height: 0/*104px*/; /*if using % height, make this large enough to fit scrollbar arrows + caption + thead*/
+	  
+    }
+.custab:hover{
+    box-shadow: 3px 3px 0px transparent;
+    transition: 0.5s;
+    }
+	
+
+	
